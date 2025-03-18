@@ -8,16 +8,14 @@ I'm a software developer passionate about levarging AI/ML and web development to
 
 ### 📊 My GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattz17&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattz17&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mattz17&theme=radical)
 
 ### 🧑‍💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C/C++-darkblue?style=for-the-badge&logo=Cplusplus)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
