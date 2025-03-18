@@ -1,6 +1,6 @@
 # Hi 👋, I'm Matthew
 
-I'm a software developer passionate about levarging AI/ML and web development to find solutions to real-world problems.
+I'm a software developer passionate about leveraging AI/ML and web development to find solutions to real-world problems.
 
 - 🔭 Currently working on Chrome Extensions and productivity tools.
 - 🌱 Learning advanced React.js and AI integration.
